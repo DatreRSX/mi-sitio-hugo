@@ -1,3 +1,8 @@
 baseURL = "https://DatreRSX.github.io/mi-sitio-hugo/"
-languageCode = 'es-ES'
-title = 'Mi sitio hugo'
+languageCode = "es-ES"
+title = "Mi sitio hugo"
+publishDir = "."
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Ejercicio de publicación con Hugo y GitHub Pages"
