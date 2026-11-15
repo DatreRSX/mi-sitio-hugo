@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitio web de David Mendo on Mi sitio hugo</title>
+    <link>https://DatreRSX.github.io/mi-sitio-hugo/</link>
+    <description>Recent content in Sitio web de David Mendo on Mi sitio hugo</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Thu, 29 Oct 2026 12:30:00 +0000</lastBuildDate>
+    <atom:link href="https://DatreRSX.github.io/mi-sitio-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montando mi web estática con Hugo</title>
+      <link>https://DatreRSX.github.io/mi-sitio-hugo/posts/aprendiendo-hugo/</link>
+      <pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate>
+      <guid>https://DatreRSX.github.io/mi-sitio-hugo/posts/aprendiendo-hugo/</guid>
+      <description>&lt;p&gt;En esta segunda entrada pruebo el funcionamiento del listado de secciones y las plantillas parciales reutilizando la cabecera y el pie de página.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hola Mundo: El primer post de David Mendo</title>
+      <link>https://DatreRSX.github.io/mi-sitio-hugo/posts/hello-world/</link>
+      <pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+      <guid>https://DatreRSX.github.io/mi-sitio-hugo/posts/hello-world/</guid>
+      <description>&lt;p&gt;¡Bienvenidos a mi blog! Soy David Mendo y esta es mi primera entrada publicada con Hugo para la práctica P1.2 de IAW en 2º ASIR.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacta con David Mendo</title>
+      <link>https://DatreRSX.github.io/mi-sitio-hugo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://DatreRSX.github.io/mi-sitio-hugo/contact/</guid>
+      <description>&lt;p&gt;Si quieres ponerte en contacto conmigo para cualquier consulta sobre administración de sistemas o redes, escríbeme a &lt;strong&gt;&lt;a href=&#34;mailto:david.mendo@ejemplo.net&#34;&gt;david.mendo@ejemplo.net&lt;/a&gt;&lt;/strong&gt; o visita mi &lt;a href=&#34;https://github.com/DatreRSX&#34;&gt;perfil de GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
